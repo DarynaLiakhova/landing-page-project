@@ -3,7 +3,7 @@
 Responsive landing page for MODU, a fictional brand of DIY wooden model kits.
 Plain HTML, CSS and JavaScript — no frameworks or build step.
 
-**Live:**
+**Live:** https://darynaliakhova.github.io/landing-page-project/
 
 ## Sections
 
